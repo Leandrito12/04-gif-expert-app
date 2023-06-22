@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing GiItem should match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="goku"
+      src="https://aquiles-vaesta.com/xd.jpg"
+    />
+    <h4>
+      goku
+    </h4>
+  </div>
+</div>
+`;
